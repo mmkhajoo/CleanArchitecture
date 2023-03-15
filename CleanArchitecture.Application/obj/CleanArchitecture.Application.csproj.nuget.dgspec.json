@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {}
+    "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {}
   },
   "projects": {
-    "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
+    "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectUniqueName": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "projectName": "CleanArchitecture.Application",
-        "projectPath": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+        "projectPath": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Application\\obj\\",
+        "outputPath": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

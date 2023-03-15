@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CWwZa5U6xVznzIae3fDHsybpxYmnRu2kFhELyO4AMnGGdfnPoAcUwqN21bHpXPRl0FCoYAgVCqn5MH6LMWOI8g==",
+  "dgSpecHash": "rHVIgRI4j/3U0CZe+4SGUIdfRzMGDgllsprL1P2Xf4ySBEVRLxInaKuZLfaRttTPqF3kt3jVNb3dLZ1VAz/9LQ==",
   "success": true,
-  "projectFilePath": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "projectFilePath": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

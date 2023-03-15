@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {}
+    "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
+    "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+        "projectUniqueName": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
         "projectName": "CleanArchitecture.Infrastructure",
-        "projectPath": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
+        "projectPath": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Infrastructure\\CleanArchitecture.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Infrastructure\\obj\\",
+        "outputPath": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

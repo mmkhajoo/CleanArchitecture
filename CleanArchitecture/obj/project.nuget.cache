@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qpo6TBjtGL15VeQVDj0gy27obgPr5Znx/hQ1XgB1n9DHvAwwfFQwqWmzkP3coewtb5VexG2KtiR6VZaHRgSR1A==",
+  "dgSpecHash": "XYSgAJcIHESQSzZfSTa4VM2omsBrGjsWxirVa9xrdS9Awf1jtYb8XS/iFxIgNDXONgZF0h/2crdy9CW9B0s5wg==",
   "success": true,
-  "projectFilePath": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture\\CleanArchitecture.csproj",
+  "projectFilePath": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

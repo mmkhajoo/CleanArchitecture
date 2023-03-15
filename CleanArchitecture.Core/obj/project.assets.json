@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
+      "projectUniqueName": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
       "projectName": "CleanArchitecture.Core",
-      "projectPath": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
+      "projectPath": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Core\\CleanArchitecture.Core.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\C# Projects\\Web API Test\\WebApiApplicationTest\\CleanArchitecture.Core\\obj\\",
+      "outputPath": "C:\\C# Projects\\CleanArchitecture\\CleanArchitecture.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
